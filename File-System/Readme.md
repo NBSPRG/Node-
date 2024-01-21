@@ -5,4 +5,10 @@ Since node gives the access of file system thus I have created a project in whic
 
 ## Utilities commands are :
 
-1. 
+> **Tree** : Organize the file and folder into a tree structure
+
+>  **Organize** : Organize different file into its own folder based on the file extension
+
+> **Help** : will show all the command prepared for the execution
+
+   
